@@ -93,19 +93,93 @@
     ],
     "objects": [
       {
-        "_id": "5a59fd6dda0a7a4b79000044",
-        "slug": "patriata",
-        "title": "Patriata",
-        "content": "<p>I love this tour. It was fun to take a cabel cart ride there.&nbsp;</p>\n",
+        "_id": "5a75cf14633fae1e6e176f5d",
+        "slug": "great-shot",
+        "title": "Great shot",
+        "content": null,
         "metafields": [
           {
-            "value": "2018-01-16",
+            "object_type": "tours",
+            "value": "5a75ced3633fae1e6e176f5a",
+            "key": "tour_id",
+            "title": "Tour Id",
+            "type": "object",
+            "object": true
+          },
+          {
+            "value": "2017-09-12",
+            "type": "text",
+            "key": "date",
+            "title": "Date"
+          },
+          {
+            "key": "image",
+            "type": "file",
+            "value": "4872ac30-08f3-11e8-832c-d348f4d107e7-pexels-photo-532820.jpeg",
+            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/4872ac30-08f3-11e8-832c-d348f4d107e7-pexels-photo-532820.jpeg",
+            "imgix_url": "https://cosmic-s3.imgix.net/4872ac30-08f3-11e8-832c-d348f4d107e7-pexels-photo-532820.jpeg"
+          }
+        ],
+        "bucket": "5a3d62322ed76bce3e000174",
+        "type_slug": "tour-details",
+        "created": "2018-02-03T15:02:44.971Z",
+        "created_at": "2018-02-03T15:02:44.971Z",
+        "modified_at": "2018-02-03T15:02:44.971Z",
+        "user_id": null,
+        "status": "published",
+        "order": null
+      },
+      {
+        "_id": "5a75d02a633fae1e6e176f69",
+        "slug": "random-shots",
+        "title": "Random Shots",
+        "content": null,
+        "metafields": [
+          {
+            "object_type": "tours",
+            "value": "5a75cf68633fae1e6e176f63",
+            "key": "tour_id",
+            "title": "Tour Id",
+            "type": "object",
+            "object": true
+          },
+          {
+            "value": "2017-11-14",
+            "type": "text",
+            "key": "date",
+            "title": "Date"
+          },
+          {
+            "key": "image",
+            "type": "file",
+            "value": "ef0a1290-08f3-11e8-832c-d348f4d107e7-pexels-photo-415708.jpeg",
+            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/ef0a1290-08f3-11e8-832c-d348f4d107e7-pexels-photo-415708.jpeg",
+            "imgix_url": "https://cosmic-s3.imgix.net/ef0a1290-08f3-11e8-832c-d348f4d107e7-pexels-photo-415708.jpeg",
+            "title": "image"
+          }
+        ],
+        "bucket": "5a3d62322ed76bce3e000174",
+        "type_slug": "tour-details",
+        "created": "2018-02-03T15:07:22.723Z",
+        "created_at": "2018-02-03T15:07:22.723Z",
+        "modified_at": "2018-02-03T15:07:22.723Z",
+        "user_id": null,
+        "status": "published"
+      },
+      {
+        "_id": "5a75cfa6633fae1e6e176f65",
+        "slug": "laik-saiful-muluk",
+        "title": "Laik Saiful Muluk",
+        "content": "<p>Life remembering moments.</p>\n",
+        "metafields": [
+          {
+            "value": "2017-12-12",
             "type": "text",
             "key": "start_date",
             "title": "Start Date"
           },
           {
-            "value": "2018-01-16",
+            "value": "2017-12-28",
             "type": "text",
             "key": "end_date",
             "title": "End Date"
@@ -117,190 +191,224 @@
             "title": "Location"
           },
           {
-            "type": "file",
             "key": "featured_image",
-            "title": "Featured Image",
-            "value": "733bc280-f85e-11e7-b797-afc7d68fbdc7-IMG_20160528_104351.jpg",
-            "id": "5a59fd6cda0a7a4b79000043",
-            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/733bc280-f85e-11e7-b797-afc7d68fbdc7-IMG_20160528_104351.jpg",
-            "imgix_url": "https://cosmic-s3.imgix.net/733bc280-f85e-11e7-b797-afc7d68fbdc7-IMG_20160528_104351.jpg"
+            "type": "file",
+            "value": "9f802250-08f3-11e8-832c-d348f4d107e7-c1b20940-084b-11e8-8643-4b6d3298867e-55c1b978415b9.jpg",
+            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/9f802250-08f3-11e8-832c-d348f4d107e7-c1b20940-084b-11e8-8643-4b6d3298867e-55c1b978415b9.jpg",
+            "imgix_url": "https://cosmic-s3.imgix.net/9f802250-08f3-11e8-832c-d348f4d107e7-c1b20940-084b-11e8-8643-4b6d3298867e-55c1b978415b9.jpg",
+            "title": "featured_image"
           }
         ],
         "bucket": "5a3d62322ed76bce3e000174",
         "type_slug": "tours",
-        "created": "2018-01-13T12:37:01.086Z",
-        "created_at": "2018-01-13T12:37:01.086Z",
-        "modified_at": "2018-01-13T12:37:01.086Z",
-        "user_id": null,
-        "status": "published",
-        "order": null
-      },
-      {
-        "_id": "5a5a0cc5da0a7a4b79000051",
-        "slug": "love-this-picture",
-        "title": "Love this picture :)",
-        "content": null,
-        "metafields": [
-          {
-            "object_type": "tours",
-            "value": "5a59fd6dda0a7a4b79000044",
-            "key": "tour_id",
-            "title": "Tour Id",
-            "type": "object",
-            "object": true
-          },
-          {
-            "value": "2016-09-07",
-            "type": "text",
-            "key": "date",
-            "title": "Date"
-          },
-          {
-            "key": "image",
-            "type": "file",
-            "value": "97c21b50-f867-11e7-b797-afc7d68fbdc7-IMG_20160628_090001.jpg",
-            "id": "5a5a0cc3da0a7a4b79000050",
-            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/97c21b50-f867-11e7-b797-afc7d68fbdc7-IMG_20160628_090001.jpg",
-            "imgix_url": "https://cosmic-s3.imgix.net/97c21b50-f867-11e7-b797-afc7d68fbdc7-IMG_20160628_090001.jpg"
-          }
-        ],
-        "bucket": "5a3d62322ed76bce3e000174",
-        "type_slug": "tour-details",
-        "created": "2018-01-13T13:42:29.046Z",
-        "created_at": "2018-01-13T13:42:29.046Z",
-        "modified_at": "2018-01-13T13:42:29.046Z",
-        "user_id": null,
-        "status": "published",
-        "order": null
-      },
-      {
-        "_id": "5a5a0ca4da0a7a4b7900004f",
-        "slug": "random-shots-1515850916269-dxo1s0i2ih",
-        "title": "Random Shots",
-        "content": null,
-        "metafields": [
-          {
-            "object_type": "tours",
-            "value": "5a59fd6dda0a7a4b79000044",
-            "key": "tour_id",
-            "title": "Tour Id",
-            "type": "object",
-            "object": true
-          },
-          {
-            "value": "2016-09-08",
-            "type": "text",
-            "key": "date",
-            "title": "Date"
-          },
-          {
-            "key": "image",
-            "type": "file",
-            "value": "84a73500-f867-11e7-b797-afc7d68fbdc7-IMG_20160528_122440.jpg",
-            "id": "5a5a0ca3da0a7a4b7900004e",
-            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/84a73500-f867-11e7-b797-afc7d68fbdc7-IMG_20160528_122440.jpg",
-            "imgix_url": "https://cosmic-s3.imgix.net/84a73500-f867-11e7-b797-afc7d68fbdc7-IMG_20160528_122440.jpg",
-            "title": "image"
-          }
-        ],
-        "bucket": "5a3d62322ed76bce3e000174",
-        "type_slug": "tour-details",
-        "created": "2018-01-13T13:41:56.269Z",
-        "created_at": "2018-01-13T13:41:56.269Z",
-        "modified_at": "2018-01-13T13:41:56.269Z",
+        "created": "2018-02-03T15:05:10.243Z",
+        "created_at": "2018-02-03T15:05:10.243Z",
+        "modified_at": "2018-02-03T15:05:10.243Z",
         "user_id": null,
         "status": "published"
       },
       {
-        "_id": "5a5a0c6f9073644a5b000322",
-        "slug": "looking-the-view-from-top",
-        "title": "Looking the view from top",
-        "content": null,
+        "_id": "5a75ced3633fae1e6e176f5a",
+        "slug": "my-visit-to-usa",
+        "title": "My visit to USA",
+        "content": "<p>It was my first business trip to USA.</p>\n",
         "metafields": [
           {
-            "object_type": "tours",
-            "value": "5a59fd6dda0a7a4b79000044",
-            "key": "tour_id",
-            "title": "Tour Id",
-            "type": "object",
-            "object": true
-          },
-          {
-            "value": "2016-09-06",
+            "value": "2017-09-04",
             "type": "text",
-            "key": "date",
-            "title": "Date"
+            "key": "start_date",
+            "title": "Start Date"
           },
           {
-            "key": "image",
+            "value": "2017-09-27",
+            "type": "text",
+            "key": "end_date",
+            "title": "End Date"
+          },
+          {
+            "value": "USA",
+            "type": "text",
+            "key": "location",
+            "title": "Location"
+          },
+          {
             "type": "file",
-            "value": "651e6460-f867-11e7-a756-a3e8cfad49fa-IMG_20160528_104351.jpg",
-            "id": "5a5a0c6e9073644a5b000321",
-            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/651e6460-f867-11e7-a756-a3e8cfad49fa-IMG_20160528_104351.jpg",
-            "imgix_url": "https://cosmic-s3.imgix.net/651e6460-f867-11e7-a756-a3e8cfad49fa-IMG_20160528_104351.jpg"
+            "key": "featured_image",
+            "title": "Featured Image",
+            "value": "220bbd70-08f3-11e8-832c-d348f4d107e7-96caf420-084c-11e8-a94c-87aa10029368-lpnyc-hero-1680-945.jpg",
+            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/220bbd70-08f3-11e8-832c-d348f4d107e7-96caf420-084c-11e8-a94c-87aa10029368-lpnyc-hero-1680-945.jpg",
+            "imgix_url": "https://cosmic-s3.imgix.net/220bbd70-08f3-11e8-832c-d348f4d107e7-96caf420-084c-11e8-a94c-87aa10029368-lpnyc-hero-1680-945.jpg"
           }
         ],
         "bucket": "5a3d62322ed76bce3e000174",
-        "type_slug": "tour-details",
-        "created": "2018-01-13T13:41:03.069Z",
-        "created_at": "2018-01-13T13:41:03.069Z",
-        "modified_at": "2018-01-13T13:41:03.069Z",
+        "type_slug": "tours",
+        "created": "2018-02-03T15:01:39.213Z",
+        "created_at": "2018-02-03T15:01:39.213Z",
+        "modified_at": "2018-02-03T15:01:39.213Z",
         "user_id": null,
         "status": "published",
         "order": null
+      },
+      {
+        "_id": "5a75cf68633fae1e6e176f63",
+        "slug": "thailand-tour",
+        "title": "Thailand Tour",
+        "content": "<p>Had a great moments :)</p>\n",
+        "metafields": [
+          {
+            "value": "2017-11-13",
+            "type": "text",
+            "key": "start_date",
+            "title": "Start Date"
+          },
+          {
+            "value": "2017-11-22",
+            "type": "text",
+            "key": "end_date",
+            "title": "End Date"
+          },
+          {
+            "value": "Thailand",
+            "type": "text",
+            "key": "location",
+            "title": "Location"
+          },
+          {
+            "key": "featured_image",
+            "type": "file",
+            "value": "7ae0fb40-08f3-11e8-832c-d348f4d107e7-f4e07400-084b-11e8-9b78-7739e87fc1e0-f3f9f5ad5c134c1f71a9256fc4a7ff05.jpg",
+            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/7ae0fb40-08f3-11e8-832c-d348f4d107e7-f4e07400-084b-11e8-9b78-7739e87fc1e0-f3f9f5ad5c134c1f71a9256fc4a7ff05.jpg",
+            "imgix_url": "https://cosmic-s3.imgix.net/7ae0fb40-08f3-11e8-832c-d348f4d107e7-f4e07400-084b-11e8-9b78-7739e87fc1e0-f3f9f5ad5c134c1f71a9256fc4a7ff05.jpg",
+            "title": "featured_image"
+          }
+        ],
+        "bucket": "5a3d62322ed76bce3e000174",
+        "type_slug": "tours",
+        "created": "2018-02-03T15:04:08.105Z",
+        "created_at": "2018-02-03T15:04:08.105Z",
+        "modified_at": "2018-02-03T15:04:08.105Z",
+        "user_id": null,
+        "status": "published"
+      },
+      {
+        "_id": "5a75cff4633fae1e6e176f67",
+        "slug": "small-visit-to-australia",
+        "title": "Small visit to Australia",
+        "content": "<p>Had a great time here :)</p>\n",
+        "metafields": [
+          {
+            "value": "2018-01-01",
+            "type": "text",
+            "key": "start_date",
+            "title": "Start Date"
+          },
+          {
+            "value": "2018-01-04",
+            "type": "text",
+            "key": "end_date",
+            "title": "End Date"
+          },
+          {
+            "value": "Australia",
+            "type": "text",
+            "key": "location",
+            "title": "Location"
+          },
+          {
+            "key": "featured_image",
+            "type": "file",
+            "value": "ceacb3e0-08f3-11e8-832c-d348f4d107e7-5d41a500-084c-11e8-a94c-87aa10029368-australia-1517598422360-6098.jpg",
+            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/ceacb3e0-08f3-11e8-832c-d348f4d107e7-5d41a500-084c-11e8-a94c-87aa10029368-australia-1517598422360-6098.jpg",
+            "imgix_url": "https://cosmic-s3.imgix.net/ceacb3e0-08f3-11e8-832c-d348f4d107e7-5d41a500-084c-11e8-a94c-87aa10029368-australia-1517598422360-6098.jpg",
+            "title": "featured_image"
+          }
+        ],
+        "bucket": "5a3d62322ed76bce3e000174",
+        "type_slug": "tours",
+        "created": "2018-02-03T15:06:28.335Z",
+        "created_at": "2018-02-03T15:06:28.335Z",
+        "modified_at": "2018-02-03T15:06:28.335Z",
+        "user_id": null,
+        "status": "published"
       }
     ],
     "media": [
       {
-        "_id": "5a59fd6cda0a7a4b79000043",
-        "name": "733bc280-f85e-11e7-b797-afc7d68fbdc7-IMG_20160528_104351.jpg",
-        "original_name": "IMG_20160528_104351.jpg",
-        "size": 131941,
+        "_id": "5a75ced1633fae1e6e176f59",
+        "name": "220bbd70-08f3-11e8-832c-d348f4d107e7-96caf420-084c-11e8-a94c-87aa10029368-lpnyc-hero-1680-945.jpg",
+        "original_name": "96caf420-084c-11e8-a94c-87aa10029368-lpnyc-hero-1680-945.jpg",
+        "size": 956329,
         "type": "image/jpeg",
         "bucket": "5a3d62322ed76bce3e000174",
-        "created": "2018-01-13T12:37:00.273Z",
+        "created": "2018-02-03T15:01:37.823Z",
         "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
-        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/733bc280-f85e-11e7-b797-afc7d68fbdc7-IMG_20160528_104351.jpg",
-        "imgix_url": "https://cosmic-s3.imgix.net/733bc280-f85e-11e7-b797-afc7d68fbdc7-IMG_20160528_104351.jpg",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/220bbd70-08f3-11e8-832c-d348f4d107e7-96caf420-084c-11e8-a94c-87aa10029368-lpnyc-hero-1680-945.jpg",
+        "imgix_url": "https://cosmic-s3.imgix.net/220bbd70-08f3-11e8-832c-d348f4d107e7-96caf420-084c-11e8-a94c-87aa10029368-lpnyc-hero-1680-945.jpg",
         "folder": "tour-images"
       },
       {
-        "_id": "5a5a0ca3da0a7a4b7900004e",
-        "name": "84a73500-f867-11e7-b797-afc7d68fbdc7-IMG_20160528_122440.jpg",
-        "original_name": "IMG_20160528_122440.jpg",
-        "size": 282295,
+        "_id": "5a75cf66633fae1e6e176f62",
+        "name": "7ae0fb40-08f3-11e8-832c-d348f4d107e7-f4e07400-084b-11e8-9b78-7739e87fc1e0-f3f9f5ad5c134c1f71a9256fc4a7ff05.jpg",
+        "original_name": "f4e07400-084b-11e8-9b78-7739e87fc1e0-f3f9f5ad5c134c1f71a9256fc4a7ff05.jpg",
+        "size": 256904,
         "type": "image/jpeg",
         "bucket": "5a3d62322ed76bce3e000174",
-        "created": "2018-01-13T13:41:55.004Z",
+        "created": "2018-02-03T15:04:06.782Z",
         "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
-        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/84a73500-f867-11e7-b797-afc7d68fbdc7-IMG_20160528_122440.jpg",
-        "imgix_url": "https://cosmic-s3.imgix.net/84a73500-f867-11e7-b797-afc7d68fbdc7-IMG_20160528_122440.jpg",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/7ae0fb40-08f3-11e8-832c-d348f4d107e7-f4e07400-084b-11e8-9b78-7739e87fc1e0-f3f9f5ad5c134c1f71a9256fc4a7ff05.jpg",
+        "imgix_url": "https://cosmic-s3.imgix.net/7ae0fb40-08f3-11e8-832c-d348f4d107e7-f4e07400-084b-11e8-9b78-7739e87fc1e0-f3f9f5ad5c134c1f71a9256fc4a7ff05.jpg",
         "folder": "tour-images"
       },
       {
-        "_id": "5a5a0c6e9073644a5b000321",
-        "name": "651e6460-f867-11e7-a756-a3e8cfad49fa-IMG_20160528_104351.jpg",
-        "original_name": "IMG_20160528_104351.jpg",
-        "size": 131941,
+        "_id": "5a75cf12633fae1e6e176f5c",
+        "name": "4872ac30-08f3-11e8-832c-d348f4d107e7-pexels-photo-532820.jpeg",
+        "original_name": "pexels-photo-532820.jpeg",
+        "size": 84830,
         "type": "image/jpeg",
         "bucket": "5a3d62322ed76bce3e000174",
-        "created": "2018-01-13T13:41:02.035Z",
+        "created": "2018-02-03T15:02:42.090Z",
         "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
-        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/651e6460-f867-11e7-a756-a3e8cfad49fa-IMG_20160528_104351.jpg",
-        "imgix_url": "https://cosmic-s3.imgix.net/651e6460-f867-11e7-a756-a3e8cfad49fa-IMG_20160528_104351.jpg",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/4872ac30-08f3-11e8-832c-d348f4d107e7-pexels-photo-532820.jpeg",
+        "imgix_url": "https://cosmic-s3.imgix.net/4872ac30-08f3-11e8-832c-d348f4d107e7-pexels-photo-532820.jpeg",
         "folder": "tour-images"
       },
       {
-        "_id": "5a5a0cc3da0a7a4b79000050",
-        "name": "97c21b50-f867-11e7-b797-afc7d68fbdc7-IMG_20160628_090001.jpg",
-        "original_name": "IMG_20160628_090001.jpg",
-        "size": 278884,
+        "_id": "5a75cff3633fae1e6e176f66",
+        "name": "ceacb3e0-08f3-11e8-832c-d348f4d107e7-5d41a500-084c-11e8-a94c-87aa10029368-australia-1517598422360-6098.jpg",
+        "original_name": "5d41a500-084c-11e8-a94c-87aa10029368-australia-1517598422360-6098.jpg",
+        "size": 1745583,
         "type": "image/jpeg",
         "bucket": "5a3d62322ed76bce3e000174",
-        "created": "2018-01-13T13:42:27.093Z",
+        "created": "2018-02-03T15:06:27.459Z",
         "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
-        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/97c21b50-f867-11e7-b797-afc7d68fbdc7-IMG_20160628_090001.jpg",
-        "imgix_url": "https://cosmic-s3.imgix.net/97c21b50-f867-11e7-b797-afc7d68fbdc7-IMG_20160628_090001.jpg",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/ceacb3e0-08f3-11e8-832c-d348f4d107e7-5d41a500-084c-11e8-a94c-87aa10029368-australia-1517598422360-6098.jpg",
+        "imgix_url": "https://cosmic-s3.imgix.net/ceacb3e0-08f3-11e8-832c-d348f4d107e7-5d41a500-084c-11e8-a94c-87aa10029368-australia-1517598422360-6098.jpg",
+        "folder": "tour-images"
+      },
+      {
+        "_id": "5a75d029633fae1e6e176f68",
+        "name": "ef0a1290-08f3-11e8-832c-d348f4d107e7-pexels-photo-415708.jpeg",
+        "original_name": "pexels-photo-415708.jpeg",
+        "size": 66000,
+        "type": "image/jpeg",
+        "bucket": "5a3d62322ed76bce3e000174",
+        "created": "2018-02-03T15:07:21.574Z",
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/ef0a1290-08f3-11e8-832c-d348f4d107e7-pexels-photo-415708.jpeg",
+        "imgix_url": "https://cosmic-s3.imgix.net/ef0a1290-08f3-11e8-832c-d348f4d107e7-pexels-photo-415708.jpeg",
+        "folder": "tour-images"
+      },
+      {
+        "_id": "5a75cfa4633fae1e6e176f64",
+        "name": "9f802250-08f3-11e8-832c-d348f4d107e7-c1b20940-084b-11e8-8643-4b6d3298867e-55c1b978415b9.jpg",
+        "original_name": "c1b20940-084b-11e8-8643-4b6d3298867e-55c1b978415b9.jpg",
+        "size": 332359,
+        "type": "image/jpeg",
+        "bucket": "5a3d62322ed76bce3e000174",
+        "created": "2018-02-03T15:05:08.228Z",
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/9f802250-08f3-11e8-832c-d348f4d107e7-c1b20940-084b-11e8-8643-4b6d3298867e-55c1b978415b9.jpg",
+        "imgix_url": "https://cosmic-s3.imgix.net/9f802250-08f3-11e8-832c-d348f4d107e7-c1b20940-084b-11e8-8643-4b6d3298867e-55c1b978415b9.jpg",
         "folder": "tour-images"
       }
     ],
